@@ -1,0 +1,24 @@
+{
+<<<<<<< HEAD
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
+=======
+    "name": "http-server",
+    "version": "1.0.0",
+    "description": " ",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": " ",
+    "license": "ISC"
+  }
+>>>>>>> 569d7c8dd1c81f6cb772801811df5d7da5bf075b

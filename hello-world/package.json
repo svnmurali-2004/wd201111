@@ -1,0 +1,29 @@
+{
+<<<<<<< HEAD
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "A simple Hello Github Program",
+=======
+  "name": "projectnode",
+  "version": "1.0.0",
+  "description": "superproject",
+>>>>>>> 569d7c8dd1c81f6cb772801811df5d7da5bf075b
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+<<<<<<< HEAD
+  "author": "Your Name",
+  "license": "ISC"
+=======
+  "author": "murali",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-n": "^16.3.1",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+>>>>>>> 569d7c8dd1c81f6cb772801811df5d7da5bf075b
+}
